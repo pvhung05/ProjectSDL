@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1716391271 source:d:\projectsdl\maingame.cpp
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<fstream>
+
+1712809385 source:d:\birchengine-master\birchengine\src\assetmanager.cpp
+	"AssetManager.h"
+	"ECS\Components.h"
+
+1712809385 d:\birchengine-master\birchengine\src\assetmanager.h
+	<map>
+	<string>
+	"TextureManager.h"
+	"Vector2D.h"
+	"ECS\ECS.h"
+	"SDL_ttf.h"
+
+1712809386 d:\birchengine-master\birchengine\src\texturemanager.h
+	"Game.h"
+
+1712809386 d:\birchengine-master\birchengine\src\game.h
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+	<vector>
+
+1712809386 d:\birchengine-master\birchengine\src\vector2d.h
+	<iostream>
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\ecs.h
+	<iostream>
+	<vector>
+	<memory>
+	<algorithm>
+	<bitset>
+	<array>
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\components.h
+	"ECS.h"
+	"TransformComponent.h"
+	"SpriteComponent.h"
+	"KeyboardController.h"
+	"ColliderComponent.h"
+	"TileComponent.h"
+	"ProjectileComponent.h"
+	"UILabel.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\transformcomponent.h
+	"Components.h"
+	"../Vector2D.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\spritecomponent.h
+	"Components.h"
+	"SDL.h"
+	"../TextureManager.h"
+	"Animation.h"
+	<map>
+	"../AssetManager.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\animation.h
+
+1712811490 d:\birchengine-master\birchengine\src\ecs\keyboardcontroller.h
+	"../Game.h"
+	"ECS.h"
+	"Components.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\collidercomponent.h
+	<string>
+	<SDL.h>
+	"Components.h"
+	"../TextureManager.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\tilecomponent.h
+	"ECS.h"
+	"../Vector2D.h"
+	"../Game.h"
+	"../TextureManager.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\projectilecomponent.h
+	"ECS.h"
+	"Components.h"
+	"../Vector2D.h"
+
+1712809386 d:\birchengine-master\birchengine\src\ecs\uilabel.h
+	"ECS.h"
+	"../AssetManager.h"
+	"../Game.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1712809385 source:d:\birchengine-master\birchengine\src\collision.cpp
+	"Collision.h"
+	"ECS\ColliderComponent.h"
+
+1712809385 d:\birchengine-master\birchengine\src\collision.h
+	<SDL.h>
+
+1712809386 source:d:\birchengine-master\birchengine\src\ecs\ecs.cpp
+	"ECS.h"
+
+1712809385 source:d:\birchengine-master\birchengine\src\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	"Map.h"
+	"ECS/Components.h"
+	"Vector2D.h"
+	"Collision.h"
+	"AssetManager.h"
+	<sstream>
+
+1712809386 d:\birchengine-master\birchengine\src\map.h
+	<string>
+
+1712809386 source:d:\birchengine-master\birchengine\src\main.cpp
+	"Game.h"
+
+1712809386 source:d:\birchengine-master\birchengine\src\map.cpp
+	"Map.h"
+	"Game.h"
+	<fstream>
+	"ECS\ECS.h"
+	"ECS\Components.h"
+
+1712809386 source:d:\birchengine-master\birchengine\src\texturemanager.cpp
+	"TextureManager.h"
+
+1712809386 source:d:\birchengine-master\birchengine\src\vector2d.cpp
+	"Vector2D.h"
+
+1716220407 d:\projectsdl\include\base.h
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<fstream>
+
+1715962535 source:d:\projectsdl\src\base.cpp
+
+1716218244 d:\projectsdl\base.h
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<fstream>
+
