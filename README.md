@@ -29,7 +29,6 @@
 ## Tài liệu tham khảo
 - Học SDL2 thông qua Lazy Foo: [LazyFoo](https://lazyfoo.net/tutorials/SDL/index.php)
 - Hướng dẫn của giảng viên trên web môn học: [Lập Trình Nâng Cao](https://docs.google.com/document/d/1FZ3jTqHxtyZznNWiJmmve0zYu_aSliUqLP2OsMcdehQ/edit#heading=h.mps3zstdeza2)
-- Hỗ trợ từ anh khóa trên.
   
 ## Tác giả:
   - Người phát triển: Phạm Văn Hùng
